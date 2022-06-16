@@ -1,4 +1,2 @@
 # LeetCode
-My LeetCode solutions
-
-The problem set contains Easy, Medium, and Hard solutions
+A repository for sharpening the axe 🪓. These are some of my LeetCode solutions!
